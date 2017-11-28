@@ -1,6 +1,7 @@
 # Stress response to salinity and drought in diploid and polyploid cotton
 ## Plant Materials
 ## Methods
+See [protocols](protocols.md) for detailed descriptions.
 ### Hydroponic system
 We will use a floating raft system as demonstrated by this [video](https://www.youtube.com/watch?v=6-ou5iUHtvg). Materials include:
 * 6-8 inch deep tubs
