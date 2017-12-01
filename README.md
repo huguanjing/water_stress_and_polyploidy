@@ -1,4 +1,5 @@
 # Stress response to salinity and drought in diploid and polyploid cotton
+## Objectives
 ## Plant Materials
 ## Methods
 See [protocols](protocols.md) for detailed descriptions.
