@@ -1,5 +1,12 @@
-# Stress response to salinity and drought in diploid and polyploid cotton
+# Stress response to salinity in diploid and polyploid cotton
 ## Objectives
+Soil salinity is a severe abiotic stress causing major decrease in crop productivity and limiting the geographic distribution of many  plant species. The aims with the present study are:
+* To examine some important phenotypic traits that contributed to salt tolerance in cotton.
+* To evaluate salt tolerance difference among A genome, D genome, and AD genome cottons. 
+* To compare the salinity tolerance between diploid and allotetraploid cottons.
+* To understand if cultivation effects the salt tolerance of cottons (comparions between wild and cultivated cottons).
+* To understand which subgenome (A2 or D5) contibutes more to the AD genome cottons under control and salt tress conditions.
+ 
 ## Plant Materials
 17 accessions from 12 species were used. See [accessions](accessions.md) for detailed descriptions
 ## Methods
