@@ -32,3 +32,4 @@ The Na<sup>+</sup>, K<sup>+</sup>, and Ca<sup>2+</sup> content will be measured 
 _ _ _
 ## Data analysis
 * Salt tolerance index (STI)
+* Principal component analysis (PCA)
