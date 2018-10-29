@@ -33,4 +33,4 @@ We analyzed 14 phenotype traits of cotton under control and slat tress including
   * Chla/Chlb
 _ _ _
  To be completed
-* Ion contents measurement including Na<sup>+</sup>, K<sup>+</sup>, K<sup>+</sup>/Na<sup>+</sup> raito, *etc.
+* Ion contents measurement including Na<sup>+</sup>, K<sup>+</sup>, K<sup>+</sup>/Na<sup>+</sup> raito, *etc*.
