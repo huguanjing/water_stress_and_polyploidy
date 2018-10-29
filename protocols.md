@@ -5,6 +5,9 @@ The fiber seeds were delinted by acid wash (aka, acid delinting). Briefly, a han
 
 Delinted seeds were dried with paper towel, chipped and placed on germination paper in petri dish at 28-30C. It seems important to keep germination paper moist, by add water twice a day. It usually takes 2-4 days for cotton seeds to germinate. 
 
+## Plant growth conditions and salt treatment
+After germination, seeds were inserted into distill water holding by a foam borad covered with cheese cloth for around 7 days. Seedlings were transferred into hydroponic containers containing 1/4 strength MS medium and grown in the Bessy Hall Greenhouse at Iowa State University. Two-week-old uniform seedlings were selected and randomly divided into three groups. For salt stress groups, nutrient solutions were identical to that for controls except for the addition of NaC1 to the desired concentrations, i.e., 50mM and 100mM. The introduction of NaCl into solution was in gradual manner with daily increments for one week. The whole salt treatment process lasted for two weeks. Solutions were replaced twice a week.
+
 ---
 ## Phenotyping
 
