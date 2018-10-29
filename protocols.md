@@ -6,29 +6,23 @@ The fiber seeds were delinted by acid wash (aka, acid delinting). Briefly, a han
 Delinted seeds were dried with paper towel, chipped and placed on germination paper in petri dish at 28-30C. It seems important to keep germination paper moist, by add water twice a day. It usually takes 2-4 days for cotton seeds to germinate. 
 
 ---
-## Phenotyping (to be modified )
-RWC and REL were tested and calculated as previously described (Cao et al., 2007; Katam et al., 2016). Below from Gong_iTRAQ_2017.
+## Phenotyping
+
+### Measurement of plant growth
+Individual plant height was recorded before and after salt treatment. Plant height (cm) was measured from the base of hypocotyl to the base of the youngest fully expanded leaf. The relative shoot growth was calculated as the difference of plant height before and after salt treatment. 
 
 ### Measurement of the Relative Water Content (RWC)
-Leaf fresh weight (FW) was measured immediately after sample collection, and the sample was then left to saturate in water for 8 h at 4◦C before measuring the turgid weight (TW). The samples were oven dried at 80◦C for 24 h and weighed (DW). RWC was calculated as
+Leaf fresh weight (FW) was measured immediately after sample collection, and the sample was then left to saturate in water for 24 h at 4◦C before measuring the turgid weight (TW). The samples were oven dried at 80◦C for 24 h and weighed (DW). RWC was calculated as
 follows: RWC = (FW– DW)/ (TW– DW).
 
-### Measurement of Relative Electrolyte Leakage (REL)
-For REL, 0.5 g of fresh leaves were cut into discs 0.8 cm in diameter, placed in 40mL of ddH2O, and incubated at room temperature for 4 h. Then, electrical conductivity of the solution (C1) was measured using a conductivity meter (EM38, ICT international, Armidale, NSW, Australia). The solution was boiled for 10min and cooled to room temperature, and electrical conductivity (C2) was again measured. REL was calculated as REL = C1/C2.
+### Measurement of antioxidative enzymes and lipid peroxidation
+For extraction of enzymes and lipid peroxidation, 500 mg of pooled fresh leaves in each replicate were ground using mortar-pestle with liquid nitrogen and subsequently homogenized in 5 ml 0.2M PBS (pH7.0). Homogenate was centrifuged at 12,000 rpm for 30 min at 4◦C and supernatant was collected for further assay. Superoxide dismutase (SOD) content was estimated according to inhibition of nitroblue tetrazolium (NBT) method by [Giannopolitis et al](http://sci-hub.tw/10.1104/pp.59.2.315). In this study, one enzyme unit of SOD was defined as the amount of enzyme which could cause 50 % inhibition of NBT reduction. Peroxidase (POD) activity was measured by Guaicol method ([Zhou and Leul, 1999](http://sci-hub.tw/10.1023/A:1006165603300)). One enzyme unit is defined as change in 1 unit of absorbance every minute. Malonaldehyde (MDA) was measured as index of lipid peroxidation by trichloroacetic acid method described by [Zhang et al](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0112807&type=printable).
 
-### Measurement of Chlorophyll Content, 
-For chlorophyll content, 0.2 g of fresh leaves was incubated in 20mL of 80% acetone in the dark at 4◦C overnight. After centrifugation at 5,000 × g and 4◦C for 5min, absorbance of the supernatant was measured at 663 and 645 nm using a spectrophotometer (DU 800, Beckman, Coulter, Inc., 250 S. Kraemer Boulevard Brea, CA 92821, USA). Chlorophyll content was calculated as total chlorophyll content = 2.03 D645 + 0.804 D663.
+### Measurement of gas exchange parameters
+After two weeks of salt treatment, measurement of photosynthetic gas exchange parameters was performed on the 5-6 seedlings of each accession. The portable open gas system Li-6400 (LI-COR Biosciences Inc., USA) was used to determine the net photosynthetic rate (Pn), stomatal conductance (Cond), internal CO2 concentration (Ci), and transpiration rate (Tr) of cottons on the second fully-expanded true leaf during 9:00-12:00 AM under photosynthetic active radiation (PAR) of 500 μmol m<sup>–2</sup>·s<sup>–1</sup>. Each seedling was measured for three times. Water use efficiency (WUE) was calculated as the ratio of Pn to Tr.
 
+### Measurement of Chlorophyll Content 
+For chlorophyll content, 100mg fresh functional leaves were cut into small segments and immersed in 5 ml 80% acetone solution for 48h in dark. Then the absorbances of supernatant were recorded at 663 and 645 nm using a spectrophotometer (DU 800, Beckman, Coulter, Inc., 250 S. Kraemer Boulevard Brea, CA 92821, USA). Chlorophyll a (Chl a), chlorophyll b (Chl b) and total chlorophylls (Chl) were estimated using the equations of [Porra et al](http://www.chem.ucla.edu/dept/Faculty/merchant/pdf/porra_et_al_1989.pdf).
+_ _ _
 ### Measurement of Na+, K+ and Ca2+ Content
-To measure Na+, K+, and Ca2+ content, fresh tissues were washed with distilled water immediately after collection, dried at 60◦C for 72 h, and ground into a fine powder using a mortar and pestle. Approximately 200–500mg of powder from each genotype was added to 12mL of 65% HNO3 and 2mL of 30% H2O2 and incubated at 80◦C for 1 h. Na+, K+ and Ca2+ concentrations of the leaves were determined by inductively coupled plasma-optical emission spectrometry (Optima 2100 DV; Perkin-Elmer, Inc., Massachusetts, USA) according to the manufacturer’s instructions.
-
-
-
-
-* photosynthetic rate, 
-* leaf relative water content
-* Na+/K+ ratio
-* free proline content
-* levels of superoxide dismutase (Xu et al. 2013; Zhang et al. 2016b; Wei et al. 2017). 
-
-Seedling growth at the beginning and end of stress treatments will be photographed and measured. Entire roots will be scanned with a large-area, high-resolution photo scanner (Epson Perfection V800 Pro) for image analysis using WinRHIZOTM (Regent Instruments, Inc.; Canada) to calculate total root length, surface area, volume, and average root diameter. Water status after treatment will be measured by leaf relative water content following an established protocol (Barrs and Weatherley 1962). Leaf photosynthesis, carbon assimilation and water transpiration rate will be measured using the LI-6400XT Portable Photosynthesis System (Li-COR Inc., NE, USA). Concentrations of Na+ and K+ in roots and leaves will be measured on the Spectro Ciros CCD ICP-AES spectrometer (SPECTRO, Germany) at the ISU Soil and Plant Analysis Laboratory. To estimate relative stress injury in terms of chlorophyll breakdown, leaf chlorophyll content will be determined as described by Arnon (1949). To measure osmotic adjustment, free proline content will be determined as described by Carillo et al. (2011). Total antioxidative capacity (Saleh and Plieth 2009) and the levels of single antioxidant species, including superoxide dismutase (SOD), catalase (CAT),  peroxidase (POD), ascorbate peroxidase (APX), and glutathione reductase (GR), will be determined as described (Zhang et al. 2014). All spectrophotometrical and luminescence assays will be performed on the Bio-tek Synergy™ HT Multi-Detection Microplate Reader (BioTek, VT, USA) at the ISU Bessey Hall core facility. Our preliminary analyses of seedlings found that salt treatment stunted plant growth, reduced photosynthesis, and decreased defense-related enzyme activities more in diploids than in allopolyploids, an exciting result relative to our hypothesis regarding niche evolution and the importance of polyploidy (see Gossypium as a model). 
+The Na<sup>+</sup>, K<sup>+</sup>, and Ca<sup>2+</sup> content will be measured at the College of Life Science, Zhejiang University. For ion contents measurement, fresh tissues will be washed with distilled water immediately after collection, dried at 60◦C for 72 h, and ground into a fine powder using a mortar and pestle. Approximately 200–500mg of powder from each genotype will be added to 12mL of 65% HNO3 and 2mL of 30% H2O2 and incubated at 80◦C for 1 h. Na<sup>+</sup>, K<sup>+</sup>, and Ca<sup>2+</sup> concentrations of the leaves will be determined by inductively coupled plasma-optical emission spectrometry (Optima 2100 DV; Perkin-Elmer, Inc., Massachusetts, USA) according to the manufacturer’s instructions.
