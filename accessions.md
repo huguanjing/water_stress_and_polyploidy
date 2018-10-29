@@ -1,7 +1,7 @@
 # List of seed germination information
 
 | Species | Genome Group | Accession ID | Germination time (days) |
-|--|--|--|--|
+|:--|--|--|:--:|
 | *G. herbaceum* | A1 | A1-73 | 3 |
 | *G. herbaceum* | A1 | A1-53 | 3 |
 | *G. herbaceum* | A1 | A1-Wagad | 3 |
