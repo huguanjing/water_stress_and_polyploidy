@@ -29,5 +29,6 @@ For chlorophyll content, 100mg fresh functional leaves were cut into small segme
 _ _ _
 ### Measurement of Na+, K+ and Ca2+ Content
 The Na<sup>+</sup>, K<sup>+</sup>, and Ca<sup>2+</sup> content will be measured at the College of Life Science, Zhejiang University. For ion contents measurement, fresh tissues will be washed with distilled water immediately after collection, dried at 60◦C for 72 h, and ground into a fine powder using a mortar and pestle. Approximately 200–500mg of powder from each genotype will be added to 12mL of 65% HNO3 and 2mL of 30% H2O2 and incubated at 80◦C for 1 h. Na<sup>+</sup>, K<sup>+</sup>, and Ca<sup>2+</sup> concentrations of the leaves will be determined by inductively coupled plasma-optical emission spectrometry (Optima 2100 DV; Perkin-Elmer, Inc., Massachusetts, USA) according to the manufacturer’s instructions.
-
-## Statistical analysis
+_ _ _
+## Data analysis
+* Salt tolerance index (STI)
