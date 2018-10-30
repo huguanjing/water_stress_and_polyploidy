@@ -20,7 +20,7 @@ We will use a floating raft system as demonstrated by this [video](https://www.y
 
 More fun reads: [1](https://www.hydroponics-simplified.com/support-files/mini-lettuce-raft-pdf.pdf), [2](https://www.extension.iastate.edu/forestry/tri_state/tristate_2014/talks/PDFs/Aquaponic_System_Design_and_Management.pdf).
 ### Stress Phenotyping
-We analyzed 14 phenotype traits of cotton under control and slat tress including:
+We analyzed 14 phenotype traits of cotton under control and salt tress including:
 * Growth related traits
   * Shoot growth
   * Relative water content (RWC)
